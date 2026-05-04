@@ -1,40 +1,29 @@
 name: IPTV Auto Update
-
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:     # Enables manual "Run workflow" button
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          fetch-depth: 0
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Run IPTV generator
-        run: python iptv_aggregator.py
-
-      - name: Commit changes
+          python-version: '3.9'
+      - name: Install Critical Dependencies
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          python -m pip install --upgrade pip
+          pip install requests  # This will fix Exit Code 2
+      - name: Run Global Aggregator
+        run: python main.py
+      - name: Deploy to Global Network
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "AETHER-BOT"
           git add live_global.m3u
-
-          if git diff --cached --quiet; then
-            echo "No update"
-            exit 0
-          fi
-
-          git commit -m "auto update playlist $(date -u)"
+          git commit -m "Auto Update: Global Channels Sync" || exit 0
           git push
+          
