@@ -1,0 +1,40 @@
+name: IPTV Auto Update
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run IPTV generator
+        run: python iptv_aggregator.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add live_global.m3u
+
+          if git diff --cached --quiet; then
+            echo "No update"
+            exit 0
+          fi
+
+          git commit -m "auto update playlist $(date -u)"
+          git push
