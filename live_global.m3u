@@ -301,8 +301,6 @@ https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Pokémon
 https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
-#EXTINF:-1 group-title="Animation;Kids",Sony Yay! (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Spacetoon Arabic (576p)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Teenage Mutant Ninja Turtles (720p)
@@ -1679,6 +1677,8 @@ https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playl
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic
 http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 group-title="Documentary",National Geographic (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic (720p)
@@ -2121,6 +2121,8 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 group-title="Education",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 group-title="Education",ITV Brazil (720p)
+https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 group-title="Education",Kan Kids (720p)
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 group-title="Education",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
@@ -2523,8 +2525,8 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Antena 21 (480p) [Not 24/7] [Geo-blocked]
-https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Antena 21 (480p)
+https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 group-title="Entertainment",Antena Stars (1280p)
 https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 group-title="Entertainment",AP TV
@@ -4531,6 +4533,8 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 group-title="General",Alcarrizos TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+#EXTINF:-1 group-title="General",Alerta Bogota (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
 #EXTINF:-1 group-title="General",Alfa & Omega Vision (480p) [Not 24/7]
 https://srv.panelcast.net/dorian/dorian/playlist.m3u8
 #EXTINF:-1 group-title="General",Algo Media TV (720p) [Not 24/7]
@@ -4571,6 +4575,8 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
 #EXTINF:-1 group-title="General",Amaga Television (720p)
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
+#EXTINF:-1 group-title="General",Amazonia TV
+https://servilive.com:3199/live/amazoniatvlive.m3u8
 #EXTINF:-1 group-title="General",Amazonica TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 #EXTINF:-1 group-title="General",Ame 47 (576p)
@@ -4613,8 +4619,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 group-title="General",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="General",Antena 7 (720p)
-https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="General",Antena 7 (480p)
+https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 group-title="General",Antena Seis TV (720p) [Geo-blocked]
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 group-title="General",Antena SUR (720p)
@@ -4745,6 +4751,8 @@ http://124.109.47.101/hls/stream1.m3u8
 https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 group-title="General",Austral TV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 group-title="General",Autonoma TV
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="General",Avers (480p)
@@ -4757,12 +4765,16 @@ https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
 https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 #EXTINF:-1 group-title="General",Awesome TV [Geo-blocked]
 https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
+#EXTINF:-1 group-title="General",Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 group-title="General",AYNI TV
 https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
 #EXTINF:-1 group-title="General",Aysen TV (720p)
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 group-title="General",Az TV
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 group-title="General",AZA TV HD (1080p)
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Azerbaijan Gharbi
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Azstar TV HD (1080p)
@@ -4881,6 +4893,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_n
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
 #EXTINF:-1 group-title="General",BBN TV (720p)
 https://streamer2.nexgen.bz/06-BBN/index.m3u8
+#EXTINF:-1 group-title="General",BBS TV
+https://bbstv.ug/hls/ch01/index.m3u8
 #EXTINF:-1 group-title="General",BCN Gospel TV HD (720p)
 https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTINF:-1 group-title="General",BCS StarCross TV (576p)
@@ -6697,8 +6711,8 @@ https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
 https://edge.enhdtv.com/8206/index.m3u8
 #EXTINF:-1 group-title="General",La Metro TV
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",La Nacion + (576p)
-http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="General",La Nacion + (1080p)
+http://45.6.4.35/LA_NACION/index.m3u8
 #EXTINF:-1 group-title="General",La Nuova TV
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 group-title="General",La Popular TV
@@ -8337,6 +8351,8 @@ https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",Taurianova TV (720p)
 https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
+#EXTINF:-1 group-title="General",Tayari West TV
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
 #EXTINF:-1 group-title="General",TBC1 (1080p)
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8
 #EXTINF:-1 group-title="General",TC Television (1080p)
@@ -8665,6 +8681,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8
 #EXTINF:-1 group-title="General",Tropical Moon Eventos TV (720p)
 https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
+#EXTINF:-1 group-title="General",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",TRT (410p) [Not 24/7]
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-1 group-title="General",TRV (480p)
@@ -8723,6 +8741,8 @@ https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 http://78.96.33.89:8080
 #EXTINF:-1 group-title="General",TV Campane 1 (720p)
 https://eu1.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 group-title="General",TV Canal 72
+https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Canindeyu (1080p)
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 group-title="General",TV Carioca (720p)
@@ -8999,6 +9019,8 @@ https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8
 https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
 #EXTINF:-1 group-title="General",TVO (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
+#EXTINF:-1 group-title="General",TVO Canal 23
+http://45.167.2.101:8000/play/a0qo/index.m3u8
 #EXTINF:-1 group-title="General",TVP Culiacán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",TVP Historia 2 (1080p)
@@ -9161,6 +9183,8 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="General",Value 24 TV
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:-1 group-title="General",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 group-title="General",VBS TV (480p) [Not 24/7]
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 #EXTINF:-1 group-title="General",VCV (720p) [Not 24/7]
@@ -9183,6 +9207,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 https://streamer2.nexgen.bz/09-POSVIBES/index.m3u8
 #EXTINF:-1 group-title="General",Vidusdaugavas Televīzija (576p)
 https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 group-title="General",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 group-title="General",Villa Altagracia TV (1080p) [Not 24/7]
 https://stream.inliveserver.com:19360/8004/8004.m3u8
 #EXTINF:-1 group-title="General",Villa Elisa Radio TV (1080p)
@@ -9343,6 +9369,8 @@ https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 #EXTINF:-1 group-title="General",Zinc Nombre TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 group-title="General",Zitata TV
+https://live.zitata.tv/direct-hls/playlist.m3u8
 #EXTINF:-1 group-title="General",ZIZ TV (720p)
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 #EXTINF:-1 group-title="General",Zjarr TV (360p)
@@ -9674,7 +9702,7 @@ https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Ani (576p)
-http://31.148.48.15/Ani/index.m3u8
+http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 group-title="Kids",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids",ARB Gunes
@@ -9782,7 +9810,7 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel (720p)
 http://167.250.126.140:7777/DISNEY-HD/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel (720p)
-https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
+http://206.212.244.63/650/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel EMEA (576p)
 http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney International HD (1080p)
@@ -9829,6 +9857,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 #EXTINF:-1 group-title="Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+#EXTINF:-1 group-title="Kids",France 4
+http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1 group-title="Kids",France 4 HD (1080p)
 https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
 #EXTINF:-1 group-title="Kids",Garfield and Friends
@@ -10157,8 +10187,6 @@ https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 http://91.146.94.234:10001/play/a08o
 #EXTINF:-1 group-title="Kids",TeenNick (576p)
 http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8
-#EXTINF:-1 group-title="Kids",TeenNick (720p)
-http://206.212.244.63/670/index.m3u8
 #EXTINF:-1 group-title="Kids",Teletubbies (720p)
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Kids",The LEGO Channel (1080p)
@@ -10315,6 +10343,8 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 group-title="Legislative",Camera dei Deputati (via RR) (240p)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 group-title="Legislative",Canal Congreso (1080p)
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 group-title="Legislative",Canal del Congreso 45.1 (720p)
 http://177.245.131.133:8080/CONGRESO/index.m3u8
 #EXTINF:-1 group-title="Legislative",Canal Gov (720p)
@@ -10359,6 +10389,8 @@ https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 #EXTINF:-1 group-title="Legislative",Congreso TV (720p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8
+#EXTINF:-1 group-title="Legislative",CongressTV (1080p)
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 group-title="Legislative",Contra Costa College TV [Geo-blocked]
 https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 group-title="Legislative",Coral Gables Television (Coral Gables FL) (720p)
@@ -10742,7 +10774,7 @@ https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Fortuna TV (720p)
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",FYI (720p)
-http://185.246.209.113/FYIHD/index.m3u8
+http://206.212.244.63/78/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",GEM Life
 https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="Lifestyle",Global Fashion Channel (1080p)
@@ -11311,8 +11343,6 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/i
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 group-title="Movies",Kino 24 (720p)
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Movies",Kino Barrandov (720p)
-http://83.167.253.107/hdmi1_ext
 #EXTINF:-1 group-title="Movies",Kino Nova
 http://213.91.179.28:8000/play/a041
 #EXTINF:-1 group-title="Movies",Kino TV HD (1080p)
@@ -13963,6 +13993,8 @@ https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 group-title="News",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 group-title="News",Argentina/12 (1080p)
+http://45.6.4.35/IP_NOTICIAS/index.m3u8
 #EXTINF:-1 group-title="News",Argus News (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G
 #EXTINF:-1 group-title="News",Arirang TV UN (1080p)
@@ -14007,6 +14039,8 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 group-title="News",BBC News (1080p) [Geo-blocked]
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="News",BBC News Latin America (720p)
+http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 group-title="News",BBC News North America (1080p)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 group-title="News",BBC News UK HD (1080p)
@@ -16519,6 +16553,8 @@ http://stream.kkr.dk/live/kkr/playlist.m3u8
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",KSCE Vida Cristiana (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 group-title="Religious",KSTV Uganda
+https://live.esteem.africa/kstv/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Religious",KTO (720p)
 http://41.205.77.102/KTO/index.m3u8
 #EXTINF:-1 group-title="Religious",KTV Al Qurain (1080p)
@@ -17081,6 +17117,8 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=20
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV 2000 (720p)
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 group-title="Religious",TV 7 Albania
+https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV Al Bayane (360p)
 http://69.64.57.208/albayanetv/index.m3u8
 #EXTINF:-1 group-title="Religious",TV Aparecida (1080p) [Not 24/7]
@@ -17919,8 +17957,8 @@ https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
 #EXTINF:-1 group-title="Series",Tlnovelas Latin America (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
-#EXTINF:-1 group-title="Series",TNT Novelas (720p)
-http://45.162.231.38:7779/TNT_Novelas/index.m3u8
+#EXTINF:-1 group-title="Series",TNT Novelas (1080p)
+http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
 #EXTINF:-1 group-title="Series",Top Crime [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 group-title="Series",Tosh.0
@@ -18299,6 +18337,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports Haber (720p)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports USA (720p)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 group-title="Sports",beIN SPORTS XTRA (1080p)
@@ -18343,8 +18383,8 @@ http://200.125.170.122:8000/play/a03j/index.m3u8
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 group-title="Sports",ColimdoT TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 group-title="Sports",Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="Sports",Combate (720p)
+http://143.14.134.107:80/167/index.m3u8
 #EXTINF:-1 group-title="Sports",Cricket Gold (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 #EXTINF:-1 group-title="Sports",CRTV (720p)
@@ -18445,8 +18485,8 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Fox Deportes (1280p)
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 group-title="Sports",FOX Sports (720p)
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports (720p)
+http://45.6.4.35/FOX_SPORT/index.m3u8
 #EXTINF:-1 group-title="Sports",Fox Sports 1 (720p)
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
 #EXTINF:-1 group-title="Sports",FTF Sports (720p)
@@ -18483,6 +18523,8 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 group-title="Sports",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Golf Channel (1080p)
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
 #EXTINF:-1 group-title="Sports",Golf Channel Latin America (1080p)
 http://72.1.184.5:8089/play/a0cw/index.m3u8
 #EXTINF:-1 group-title="Sports",Golf Zone (1080p)
@@ -18627,6 +18669,8 @@ https://fighthls.persiana.live/hls/stream.m3u8
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 group-title="Sports",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Sports",PK Sports (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 #EXTINF:-1 group-title="Sports",Pluto TV Deportes
@@ -18691,6 +18735,8 @@ http://91.146.94.234:10001/play/a05b
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Premier Sports 2 (1080p)
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Premiere Clubes (720p)
+http://45.162.231.38:7779/Premiere_Clubes/index.m3u8
 #EXTINF:-1 group-title="Sports",Premiere FC 1
 https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 group-title="Sports",Premiere FC 2
@@ -20995,8 +21041,8 @@ https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 http://177.234.249.135:8888/Golden/index.m3u8
 #EXTINF:-1 group-title="Undefined",Golden Boy
 https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
-#EXTINF:-1 group-title="Undefined",Golden Edge (720p)
-http://177.234.249.135:8888/GoldenEdge/index.m3u8
+#EXTINF:-1 group-title="Undefined",Golden Edge (1080p)
+http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 #EXTINF:-1 group-title="Undefined",Goldmines Bollywood (576p)
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 group-title="Undefined",Golf Network (1080p)
@@ -22111,8 +22157,8 @@ https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",NBCU Telemundo West (1080p)
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Nei Monggol TV (960p)
-https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+#EXTINF:-1 group-title="Undefined",Nei Monggol TV (1080i) [Not 24/7]
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 group-title="Undefined",Nesfejahan
 https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",NESN Nation (1080p)
@@ -24033,6 +24079,8 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Telefe (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Telefe Buenos Aires (1080p)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 group-title="Undefined",Telefe Internacional (576p)
 http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 group-title="Undefined",Telefe Rosario [Geo-blocked]
@@ -24553,6 +24601,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV 41 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV 42
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 #EXTINF:-1 group-title="Undefined",TV 52 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV A Critica
@@ -24739,6 +24789,8 @@ http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 #EXTINF:-1 group-title="Undefined",TV UCT (1080p)
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV UNAM (720p)
+http://177.245.131.133:8080/UNAM/index.m3u8
 #EXTINF:-1 group-title="Undefined",TV Vega (576p) [Not 24/7]
 http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV Veseljak Golica HD
@@ -25057,8 +25109,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 http://200.115.120.1:8000/play/ca106/index.m3u8
 #EXTINF:-1 group-title="Undefined",Univision Latin America (1080p)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 group-title="Undefined",Univision Latin America (1080p)
-http://177.234.249.135:8888/Univision/index.m3u8
 #EXTINF:-1 group-title="Undefined",Univision West (1080p)
 http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8
 #EXTINF:-1 group-title="Undefined",Unleashed by DOGTV (1080p)
@@ -25105,8 +25155,8 @@ https://cloud.tvomix.com/URBANMIX/index.m3u8
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",USA Network Latin America (1080p)
 http://138.121.15.230:9002/USA/index.m3u8
-#EXTINF:-1 group-title="Undefined",USA Network Latin America (720p)
-http://45.162.231.38:7779/Syfy/index.m3u8
+#EXTINF:-1 group-title="Undefined",USA Network Latin America (1080p)
+http://138.186.23.7:8082/SYFY/index.m3u8
 #EXTINF:-1 group-title="Undefined",Usadba (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/usadba-hd.m3u8
 #EXTINF:-1 group-title="Undefined",UStad (1080p)
@@ -25545,8 +25595,6 @@ https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WNBC-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
-#EXTINF:-1 group-title="Undefined",WNJU 47.1 (720p)
-http://134.195.157.227:1234/stream/test/tm/master.m3u8
 #EXTINF:-1 group-title="Undefined",WNYW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Women's Sports Network (1080p)
