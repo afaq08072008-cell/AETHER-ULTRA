@@ -464,7 +464,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.
 #EXTINF:-1 group-title="Business",CNBC Bajar (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="Business",CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Business",CNBC TV18 (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="Business",CNBC TV18 Prime HD (1080p)
@@ -3799,8 +3799,8 @@ http://stream.mcquack.net/463/index.m3u8
 http://stream.mcquack.net/464/index.m3u8
 #EXTINF:-1 group-title="Entertainment",RCN Más (1080p)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",RCN Novelas (720p)
-http://170.238.200.199:80/rcn-novelas/index.m3u8
+#EXTINF:-1 group-title="Entertainment",RCN Novelas (1080p)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Rede NGT (1080p)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Rede Premium TV (720p)
@@ -4823,6 +4823,8 @@ https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 group-title="General",Armenia 2 (1080p)
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 group-title="General",Armenia TV (720p)
+http://starcius-cinema.com/20690/index.m3u8
 #EXTINF:-1 group-title="General",Armenia TV Satellite (576p)
 http://stream.mcquack.net/175/index.m3u8
 #EXTINF:-1 group-title="General",Arpegio TV (720p)
@@ -6059,12 +6061,10 @@ https://live.teleradiocom.tj/7/3m.m3u8
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Décima TV (Ancud) (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",E International (576p)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
 #EXTINF:-1 group-title="General",E International Asia (576p)
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
 #EXTINF:-1 group-title="General",E International Europe (576p)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
 #EXTINF:-1 group-title="General",Echo24 (720p)
 https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
 #EXTINF:-1 group-title="General",Eclipse TV (720p)
@@ -8751,10 +8751,10 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Telecentro (1080p)
 https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+#EXTINF:-1 group-title="General",Telecentro (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 #EXTINF:-1 group-title="General",TeleCentro (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8
-#EXTINF:-1 group-title="General",Telecentro (720p)
-https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 group-title="General",Telechiara (720p)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 #EXTINF:-1 group-title="General",TeleCibaoHD (720p) [Not 24/7]
@@ -10227,6 +10227,8 @@ https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
 http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 #EXTINF:-1 group-title="Kids",Green Gold TV
 https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
+#EXTINF:-1 group-title="Kids",Green Gold TV HD
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8
 #EXTINF:-1 group-title="Kids",Groovia Kids (576p)
 https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 #EXTINF:-1 group-title="Kids",Gulli
@@ -11415,8 +11417,6 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 group-title="Movies",Bhojpuri Cinema (720p)
 http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Bioskop TelkomVision (576p)
-https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8
 #EXTINF:-1 group-title="Movies",BIZ Cinema (1080p)
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="Movies",Blokbaster HD (1080p)
@@ -26029,6 +26029,8 @@ https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 #EXTINF:-1 group-title="Undefined",WFXT-DT2 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",WGBO-DT 66.1 (2160p)
+https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
 #EXTINF:-1 group-title="Undefined",WGGS-DT1 (720p)
 https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 #EXTINF:-1 group-title="Undefined",WGN-DT1 (720p)
