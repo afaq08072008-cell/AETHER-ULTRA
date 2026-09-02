@@ -1271,6 +1271,8 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Kemet TV
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
+#EXTINF:-1 group-title="Culture",KIIO-LD 10.1
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 group-title="Culture",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Culture",KTV Arabe (1080p)
@@ -2229,6 +2231,8 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 group-title="Education",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 group-title="Education",Ryongnamsan Television SD [Not 24/7]
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:-1 group-title="Education",Santa Cecilia TV (1080p)
 https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 group-title="Education",Santa Maria Community Television Education Channel (720p)
@@ -3153,10 +3157,8 @@ https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Kurdsat (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 group-title="Entertainment",Kvartal TV (720p)
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
-#EXTINF:-1 group-title="Entertainment",Kvartal TV International
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Kvartal TV
+http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 group-title="Entertainment",KVIE-DT2 (1080p)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 #EXTINF:-1 group-title="Entertainment",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
@@ -6917,8 +6919,8 @@ https://edge.essastream.com/miavisiontv/playlist.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 group-title="General",Micto (360p)
 http://93.78.206.172:8080/stream3/stream.m3u8
-#EXTINF:-1 group-title="General",MierschTV (1080p)
-https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
+#EXTINF:-1 group-title="General",MierschTV
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
 #EXTINF:-1 group-title="General",Mijas 3.40TV (720p)
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 group-title="General",Mikuba TV (480p) [Not 24/7]
@@ -10789,6 +10791,8 @@ http://85.11.144.9:4222/AXN
 http://88.212.15.19/live/test_axn/playlist.m3u8
 #EXTINF:-1 group-title="Movies",AXN CEE Romania
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+#EXTINF:-1 group-title="Movies",AXN Crime
+http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 group-title="Movies",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 group-title="Movies",AXN Latin America (1080p)
@@ -10855,8 +10859,8 @@ http://213.91.179.28:8000/play/a05i
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 group-title="Movies",Canal+ Action Europe Czechia
-http://46.149.191.219:9106/play/a01g
+#EXTINF:-1 group-title="Movies",Canal+ Action Europe Czechia (720p)
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 group-title="Movies",Canal+ Cinemas (720p)
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 group-title="Movies",CCTV-6 (1080p)
@@ -11827,8 +11831,6 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 #EXTINF:-1 group-title="Movies",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
-#EXTINF:-1 group-title="Movies",Viasat Film
-http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 group-title="Movies",Viasat Kino
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
 #EXTINF:-1 group-title="Movies",Viasat Kino Action
@@ -16073,8 +16075,6 @@ https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",GoodTV (1080p)
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Gospel Broadcasting Network (GBN) (1080p)
-https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Gospel Movie TV (360p)
@@ -18571,6 +18571,8 @@ https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Sports",Sports Television [Not 24/7]
+https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:-1 group-title="Sports",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",SporTV 3 (720p)
@@ -20427,6 +20429,8 @@ https://jmp2.uk/plu-65cb8bd911ced7000820bff2.m3u8
 https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8
 #EXTINF:-1 group-title="Undefined",Faros TV2 (480p) [Geo-blocked]
 https://s1.cystream.net/live/faros2/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Fashion (1080p)
+http://stream.mcquack.net/288/index.m3u8
 #EXTINF:-1 group-title="Undefined",Fast1 (576p)
 https://cdn-6.pishow.tv/live/10008/master.m3u8
 #EXTINF:-1 group-title="Undefined",Feel Good TV (720p) [Not 24/7]
@@ -20687,6 +20691,8 @@ https://live.streamingfast.net/osmflivech7.m3u8
 https://live.streamingfast.net/osmflivech9.m3u8
 #EXTINF:-1 group-title="Undefined",Gormiti
 https://jmp2.uk/plu-66a8c64814a2bb00084d09d6.m3u8
+#EXTINF:-1 group-title="Undefined",Gospel Broadcasting Network (GBN) (1080p)
+https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Graham Norton Germany (1080p)
 https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Great British Menu (720p)
@@ -22241,6 +22247,10 @@ https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Rawhide Tausend Meilen Staub
 https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
+#EXTINF:-1 group-title="Undefined",RAZ 3 (720p)
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
+#EXTINF:-1 group-title="Undefined",RAZ 3 International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Razavi TV
 https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",RBB Berlin (1080p) [Geo-blocked]
@@ -22547,6 +22557,8 @@ http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 group-title="Undefined",RTM Plus (720p) [Not 24/7]
 https://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 group-title="Undefined",RTN
+http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 group-title="Undefined",RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 group-title="Undefined",RTP (404p)
